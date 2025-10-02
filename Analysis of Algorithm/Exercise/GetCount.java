@@ -16,4 +16,5 @@ public static int GetCount(int arr[], int n) {
 			}
 	return Math.max(count1, count2); 
 }
+// Ans- The time complexity is O(n2)
 
