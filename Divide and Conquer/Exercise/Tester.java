@@ -61,12 +61,9 @@ class Tester {
 	 	System.out.println("Maximum value is "+ maxMin1[0]);	
         
         System.out.println("\n-------------------------------------");
-
        
-	 	int arr2[] = {2, 3};	
-
+	 	int arr2[] = {2, 3};
 	 	int[] maxMin2 = getMaxMin(arr2, 0, arr2.length - 1);
-	 	
         System.out.println("--- Sample 2 ---");
 	 	System.out.println("Minimum value is "+ maxMin2[1]);	
 	 	System.out.println("Maximum value is "+ maxMin2[0]);
