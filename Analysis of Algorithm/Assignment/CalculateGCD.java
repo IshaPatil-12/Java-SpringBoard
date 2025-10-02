@@ -15,3 +15,4 @@ public static int calculateGCD(int num1, int num2) {
 	}
 	return num1;
 }
+//Ans- Time complexity is O(log n)
